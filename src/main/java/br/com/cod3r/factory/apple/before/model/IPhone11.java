@@ -1,4 +1,6 @@
-package br.com.cod3r.factory.apple.before.mhttps://github.com/mailhog/MailHogodel;
+package br.com.cod3r.factory.apple.before.model;
+
+import br.com.cod3r.factory.apple.before.model.IPhone;
 
 public class IPhone11 extends IPhone {
 
