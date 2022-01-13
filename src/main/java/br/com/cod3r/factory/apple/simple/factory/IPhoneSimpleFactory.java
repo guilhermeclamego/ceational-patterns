@@ -12,15 +12,15 @@ public class IPhoneSimpleFactory {
 		IPhone device = null;
 
 		if (generation.equals("X")) {
-			if (level.equals("standard")) {
+			if ("standard".equals(level)) {
 				device = new IPhoneX();
-			} else if (level.equals("highEnd")) {
+			} else if ("highEnd".equals(level)) {
 				device = new IPhoneXSMax();
 			}
-		} else if (generation.equals("11")) {
-			if (level.equals("standard")) {
+		} else if ("11".equals(generation)) {
+			if ("standard".equals(level)) {
 				device = new IPhone11();
-			} else if (level.equals("highEnd")) {
+			} else if ("highEnd".equals(level)) {
 				device = new IPhone11Pro();
 			}
 		}
