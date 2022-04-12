@@ -79,3 +79,17 @@ Jsrc/main/java/br/com/cod3r/factory/apple/after/factory/IPhoneXFactory.java,5/c
 Lsrc/main/java/br/com/cod3r/abstractfactory/apple/factory/IPhoneXFactory.java,4/a/4a7af35cf5b591f48ae37fcb2c3226d4798e7369
 }
 Msrc/main/java/br/com/cod3r/abstractfactory/apple/factory/IPhone11Factory.java,a/e/ae6486c07de1684cdb2cd6297773351df4632ba1
+™
+isrc/main/java/br/com/cod3r/abstractfactory/apple/factory/abstractFactory/CountryRulesAbstractFactory.java,b/1/b1b6337333b26157b8fbdc399268d0608d198513
+{
+Ksrc/main/java/br/com/cod3r/abstractfactory/apple/factory/IPhoneFactory.java,e/3/e3a300c8c3142208ae9ee73b1bcf66b132df06bd
+l
+<src/main/java/br/com/cod3r/abstractfactory/apple/Client.java,6/d/6d7c20ba8c596a53c2932c3db47b4c40e17e2f70
+r
+Bsrc/main/java/br/com/cod3r/builder/spolleto/before/model/Size.java,0/d/0d6368041ae285b0af1742b18bd9fc9e8cd375d5
+q
+Asrc/main/java/br/com/cod3r/builder/spolleto/after/model/Size.java,1/b/1ba67b11597cff86ef7b165c51f6e1fbca36d719
+q
+Asrc/main/java/br/com/cod3r/builder/spolleto/after/model/Meal.java,0/f/0f44905296ef2b7807e21e439132887bb0264f66
+ƒ
+Ssrc/main/java/br/com/cod3r/builder/spolleto/after/model/builder/MealBuilderOpt.java,c/5/c570a35ad2540fbaf24e5d87f47f665f26b13cab
