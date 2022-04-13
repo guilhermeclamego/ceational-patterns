@@ -93,3 +93,5 @@ q
 Asrc/main/java/br/com/cod3r/builder/spolleto/after/model/Meal.java,0/f/0f44905296ef2b7807e21e439132887bb0264f66
 ƒ
 Ssrc/main/java/br/com/cod3r/builder/spolleto/after/model/builder/MealBuilderOpt.java,c/5/c570a35ad2540fbaf24e5d87f47f665f26b13cab
+‡
+Wsrc/main/java/br/com/cod3r/builder/spolleto/after/model/builder/DefaultMealBuilder.java,b/e/beff49feb75e3bbee7d8b30c9ab12c950aaa7cb9
